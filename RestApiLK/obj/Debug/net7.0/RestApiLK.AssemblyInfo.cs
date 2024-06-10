@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RestApiLK")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3595bd685075aa135c118ac6020c576bb80e342f")]
 [assembly: System.Reflection.AssemblyProductAttribute("RestApiLK")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RestApiLK")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

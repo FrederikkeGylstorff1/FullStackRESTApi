@@ -38,11 +38,11 @@ builder.Services.AddDbContext<LakridsKompanigetDbContext>(opt =>
 });
 
 // Add your services to the container here
-builder.Services.AddScoped<kundeService, kundeService>(); // Example assuming you have a service called KundeService
-builder.Services.AddScoped<OrdreService, OrdreService>();
-builder.Services.AddScoped<BetalingService, BetalingService>();
-builder.Services.AddScoped<ForhandlerService, ForhandlerService>();
-builder.Services.AddScoped<produkter, produkter>();
+builder.Services.AddScoped<kundeService>();
+builder.Services.AddScoped<OrdreService>();
+builder.Services.AddScoped<BetalingService>();
+builder.Services.AddScoped<ForhandlerService>();
+builder.Services.AddScoped<ProduktService>(); // Register the ProduktService
 
 var app = builder.Build();
 

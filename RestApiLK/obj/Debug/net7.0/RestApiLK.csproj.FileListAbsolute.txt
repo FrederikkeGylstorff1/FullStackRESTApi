@@ -71,3 +71,5 @@ C:\Users\frede\source\repos\RestApiLK\RestApiLK\bin\Debug\net7.0\runtimes\win\li
 C:\Users\frede\source\repos\RestApiLK\RestApiLK\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\frede\source\repos\RestApiLK\RestApiLK\bin\Debug\net7.0\MySqlConnector.dll
 C:\Users\frede\source\repos\RestApiLK\RestApiLK\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\frede\source\repos\RestApiLK\RestApiLK\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\frede\source\repos\RestApiLK\RestApiLK\obj\Debug\net7.0\RestApiLK.sourcelink.json

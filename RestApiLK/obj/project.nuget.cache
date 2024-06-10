@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hTLTHtKwWe9DV2bMDx7SdTidNsRbK3yeOj21cOath/FgTzQ997B7WPxXATddJRQiIbSBIpKuQQTNfnJF3l4Cmg==",
+  "dgSpecHash": "Lh8/Q+MG0HgBSx4y7NTG58eQogxqMnRHYH06OrpiBdwGWTWC2uVaYbCvF7vy+AGTSOrbN5P/6b8pH7I+ziqITw==",
   "success": true,
   "projectFilePath": "C:\\Users\\frede\\source\\repos\\RestApiLK\\RestApiLK\\RestApiLK.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "C:\\Users\\frede\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.17\\microsoft.entityframeworkcore.7.0.17.nupkg.sha512",
     "C:\\Users\\frede\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.17\\microsoft.entityframeworkcore.abstractions.7.0.17.nupkg.sha512",
     "C:\\Users\\frede\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.17\\microsoft.entityframeworkcore.analyzers.7.0.17.nupkg.sha512",
+    "C:\\Users\\frede\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\7.0.17\\microsoft.entityframeworkcore.inmemory.7.0.17.nupkg.sha512",
     "C:\\Users\\frede\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.17\\microsoft.entityframeworkcore.relational.7.0.17.nupkg.sha512",
     "C:\\Users\\frede\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\7.0.17\\microsoft.entityframeworkcore.sqlserver.7.0.17.nupkg.sha512",
     "C:\\Users\\frede\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
