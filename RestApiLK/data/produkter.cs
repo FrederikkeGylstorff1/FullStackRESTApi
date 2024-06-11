@@ -22,5 +22,7 @@ namespace RestApiLK.data
         public int AntalPåLager { get; set; }
 
         public string Indhold { get; set; }
+
+        public string ImageUrl { get; set; }
     }
 }
